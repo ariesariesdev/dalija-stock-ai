@@ -1,0 +1,5 @@
+FullTicker,SharesAmount,PurchasePrice,ClosingPrice31_12_2025,ManualSnapshotPrice,,,,
+AAPL,10,100.0,150.0,,,,,
+MSFT,invalid,200.0,300.0,301.25,,,,
+,5,50.0,60.0,,,,,
+TSLA,3,invalid,,450.10,,,,
